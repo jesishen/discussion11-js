@@ -1,1 +1,1 @@
-# discussion11-js
+Week 11 JS Discussion
